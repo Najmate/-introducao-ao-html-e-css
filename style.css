@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(245, 241, 241);
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.tabela {
+    background-color: rgb(189, 186, 186);
+    text-align: center;
+    width: 90%;
+    margin: 0% 5%
+}
+
+iframe {
+    border-radius: 20px;
+}
+
+.botao {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+    padding: 0.5%
+}
+
+.botao:hover {
+    background-color: rgba(127, 255, 212, 0.489);
+}
+
+
+
+#send {
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+.text {
+    font-size: large;
+    font-weight: bold;
+}
+
+.text-index {
+    text-align: left;
+    font-size: medium;
+    font-weight: 100;
+}
+
+.centralizar {
+    text-align: center;
+}
